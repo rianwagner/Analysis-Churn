@@ -37,7 +37,7 @@ O churn é uma métrica crítica para empresas de assinaturas, pois impacta dire
 - O modelo de Cox revelou que MonthlyCharges e Contract são os fatores mais significativos para o churn.
 
 3. Modelagem Preditiva
-- O modelo de Random Forest alcançou uma AUC-ROC de 0.85, indicando boa capacidade de prever churn.
+- O modelo de Random Forest alcançou uma AUC-ROC de 0.76, indicando boa capacidade de prever churn.
 - As variáveis mais importantes foram tenure, MonthlyCharges e Contract.
 
 **Ações Recomendadas**
